@@ -3,7 +3,6 @@
 <div>
   <a href="https://github.com/Gabriels815">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriels815&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
   
 ## Liguagens de programação
