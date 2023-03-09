@@ -1,9 +1,12 @@
 # Bem vindo ao meu perfil no GitHub!
 ## Meu nome é Gabriel.
+### Meus Stats
 <div>
   <a href="https://github.com/Gabriels815">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
 </div>
+
+![Snake animation](https://github.com/Gabriels815/Gabriels815/blob/output/github-contribution-grid-snake.svg)
   
 ## Liguagens de programação
 
