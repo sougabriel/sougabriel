@@ -5,8 +5,8 @@
 ### Meus Stats
 
 <div>
-  <a href="https://github.com/Gabriels815">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=css"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=css"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriels815&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
  
 ## Liguagens de programação
@@ -33,20 +33,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48"/>
     <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="48" height="48"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
-</div>
-<div>
+  
   <h4>Banco de Dados</h4> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/>  
     <img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" width="48" height="48"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="48" height="48"/>
-</div>
-<div>
+  
   <h4>Design e Mockups</h4> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/>
-</div>
-<div>
+  
   <h4>Versionamento</h4> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
