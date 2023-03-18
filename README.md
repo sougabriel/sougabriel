@@ -1,7 +1,5 @@
 # Bem vindo ao meu perfil no GitHub!
 
-## Meu nome é Gabriel.
-
 ### Meus Stats
 
 <div>
