@@ -3,8 +3,8 @@
 ### Meus Stats
 
 <div>
-  <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=css"/>
-  <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriels815&layout=compact&langs_count=10&theme=react&hide=css"/>
+  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=css"/>
+  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriels815&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
  
 ## Liguagens de programação
