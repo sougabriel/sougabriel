@@ -1,5 +1,5 @@
-# Bem vindo ao meu perfil no GitHub!
-
+# Seja Bem Vindo ao Meu Portifólio no GitHub!
+## Eu me chamo Gabriel! 
 ### Meus Stats
 
 <div>
@@ -8,7 +8,7 @@
 </div>
 
 <div border="solid">
-  <h2>Linguagens de Programação</h2>
+  <h2>Linguagens de Programação</h2> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64"/>
@@ -16,15 +16,14 @@
   
 
 <div>
-  <h2>Estou aprendendo</h2> <br>
+  <h2>Estou Aprendendo</h2> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" height="64"/>
 </div> 
 
-## Tecnologias e ferramentas
-
+<h2>Tecnologias e Ferramentas</h2>
 <div>
   <h4>Desenvolvimento</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48"/>
