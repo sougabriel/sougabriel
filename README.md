@@ -6,9 +6,9 @@
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=css"/>
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriels815&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
- 
-## Liguagens de programação
-<div>
+
+<div border="solid">
+  <h2>Linguagens de Programação</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64"/>
