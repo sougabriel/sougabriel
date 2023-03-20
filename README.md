@@ -1,19 +1,17 @@
 # Seja Bem Vindo ao Meu Portifólio no GitHub!
 ## Eu me chamo Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ### Meus Stats: 
-
-<div>
+<div align="center">
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriels815&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=css"/>
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriels815&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
 
-<div border="solid">
+<div>
   <h2>Linguagens de Programação</h2> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64"/>
 </div>
-  
 
 <div>
   <h2>Estou Aprendendo</h2> 
