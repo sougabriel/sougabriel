@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile!
-## My name is Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
-### Stats: 
+<h1>Welcome to My GitHub Profile! </h1>
+<h2>My name is Gabriel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"></h2>
+<h3>Stats: </h3>
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=css"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&hide=css"/>
