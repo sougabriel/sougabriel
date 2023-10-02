@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
 <header>
     <h1>Hello! My name is Gabriel de Souza! And welcome to my Github profile! </h1>   
     <nav>
@@ -32,8 +33,8 @@
 
 
 <h2>My Stats: </h2>
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&hide=css,html,hack"/>
+<img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+<img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&hide=css,html,hack"/>
 
 <div align="center">        
 <h2>Principals Skills</h2>
@@ -108,10 +109,23 @@
 </section>
 </main>
 
+<div align="center">
+  <br>
+  <p align="center">
+    <b>Visitors Count</b>
+  </p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{sougabriel}/count.svg" />
+  </p> 
+  <br>
+</div>
+
 <footer>
     <div align="center">
         <hr>
         <img src="https://raw.githubusercontent.com/sougabriel/sougabriel/e506c1a2f41063761abc69ed302a5faefc87fab6/favicon.svg" alt="sougabriel logo" width="48" height="48"> 
-        <h4>&copy; 2023 Gabriel de Souza, Dev. </h4>
+        <p>&copy; 2023 Gabriel de Souza, Dev. </p>
     </div>
 </footer>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=footer"/>
