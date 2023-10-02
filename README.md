@@ -30,19 +30,12 @@
             </tr>
         </table>
 
-<div align="center">
-    <h2>My Stats: </h2>
-    <table>
-        <tr>
-            <td>
-                <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-            </td>
-            <td>
-                <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&hide=css,html,hack"/>
-            </td>
-        </tr>
-    </table>
-        
+
+<h2>My Stats: </h2>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&hide=css,html,hack"/>
+
+<div align="center">        
 <h2>Principals Skills</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="64" height="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="64" height="64"/>
