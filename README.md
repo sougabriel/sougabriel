@@ -64,7 +64,8 @@
     
 <hr>
     <section id="knowledges">
-        <h2>Knowledges</h2>
+        <h2>Knowledges: </h2>
+        <div align="center">
         <table>
             <tr>
                 <td>
@@ -106,10 +107,10 @@
             </tr>
         </table>
     </section>
-
+        </div>
 <hr>
 <section id="projects">
-    <h2>Projects</h2>
+    <h2>Projects: </h2>
     <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server. </a>
 </section>
 </main>
