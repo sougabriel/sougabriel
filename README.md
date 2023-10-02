@@ -109,6 +109,7 @@
 </section>
 </main>
 
+<hr>
 <div align="center">
   <br>
   <p align="center">
