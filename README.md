@@ -17,20 +17,8 @@
     <hr>
     <section id="resume">
         <h2>Resume: </h2>
-        <table>
-            <tr>
-                <td>
                     I am an undergraduate student in Technology in Systems Analysis and Development, passionate about programming, and seeking experience in the field. My goal is to acquire solid knowledge in both back-end and front-end, in order to become a versatile and qualified developer. 
-                </td>
-                <td>
-                    Throughout my course, I have been intensely dedicated to learning programming languages, frameworks, and technologies relevant to system development. With a curious and proactive mindset, I am always looking to improve my technical skills and keep up with the latest industry trends.
-                </td>
-                <td>
-                    Although I do not yet have professional experience, I am eager to apply the knowledge I have gained and contribute to challenging projects. I am resilient, committed, and have excellent teamwork skills, which I consider essential for success in the world of programming.
-                </td>
-            </tr>
-        </table>
-
+                    
 
 <h2>My Stats: </h2>
 <img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
@@ -122,7 +110,7 @@
     <div align="center">
         <hr>
         <img src="https://raw.githubusercontent.com/sougabriel/sougabriel/e506c1a2f41063761abc69ed302a5faefc87fab6/favicon.svg" alt="sougabriel logo" width="48" height="48"> 
-        <p>&copy; 2023 Gabriel de Souza, Dev. </p>
+        <p>&copy; 2023 Gabriel de Souza. </p>
     </div>
 </footer>
 
