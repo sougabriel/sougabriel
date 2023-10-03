@@ -71,12 +71,10 @@
                         <li>Redis;   </li>
                         <li>Laravel; </li>
                         <li>Pycharm; </li>
-                        <li>Pandas;  </li>
                     </ul>
                 </td>
                 <td>
                     <ul>
-                        <li>Flask;       </li>
                         <li>Node.js;     </li>
                         <li>NPM;         </li>
                         <li>Express.js;  </li>
@@ -88,7 +86,6 @@
                 </td>
                 <td>
                     <ul>
-                        <li>Nginx;    </li>
                         <li>SCSS;     </li>
                         <li>Latex;    </li>
                         <li>Markdown; </li>
