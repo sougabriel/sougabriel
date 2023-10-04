@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
 <header>
-    <h1>Hello! My name is Gabriel de Souza! And welcome to my Github profile! </h1>   
+    <h1>Hi! My name is Gabriel de Souza! Welcome to my profile! </h1>   
     <nav>
         <details>
             <summary>Sections</summary>
@@ -17,12 +17,11 @@
     <hr>
     <section id="resume">
         <h2>Resume: </h2>
-                    I am an undergraduate student in Technology in Systems Analysis and Development, passionate about programming, and seeking experience in the field. My goal is to acquire solid knowledge in both back-end and front-end, in order to become a versatile and qualified developer. 
-                    
+I am an undergraduate student in Technology in Systems Analysis and Development, passionate about programming, and seeking experience in the field. My goal is to acquire solid knowledge in both back-end and front-end, in order to become a versatile and qualified developer. 
 
 <h2>My Stats: </h2>
 <img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-<img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&hide=css,html,hack"/>
+<img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=css,html,hack"/>
 
 <div align="center">        
 <h2>Principals Skills</h2>
@@ -95,17 +94,6 @@
 </main>
 
 <hr>
-<div align="center">
-  <br>
-  <p align="center">
-    <b>Visitors Count</b>
-  </p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{sougabriel}/count.svg" />
-  </p> 
-  <br>
-</div>
-
 <footer>
     <div align="center">
         <hr>
