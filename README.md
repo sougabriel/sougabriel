@@ -93,7 +93,6 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
 </section>
 </main>
 
-<hr>
 <footer>
     <div align="center">
         <hr>
