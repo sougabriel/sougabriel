@@ -20,11 +20,13 @@
 I am an undergraduate student in Technology in Systems Analysis and Development, passionate about programming, and seeking experience in the field. My goal is to acquire solid knowledge in both back-end and front-end, in order to become a versatile and qualified developer. 
 
 <h2>My Stats: </h2>
-<img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-<img height="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=css,html,hack"/>
+<div align="center">
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true"/>
+</div>
 
-<div align="center">        
 <h2>Principals Skills</h2>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="64" height="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="64" height="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64"/>
