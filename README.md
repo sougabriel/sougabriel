@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
 <header>
     <h1>Hi! My name is Gabriel de Souza! Welcome to my profile! </h1>   
     <nav>
@@ -91,16 +90,8 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
 <hr>
 <section id="projects">
     <h2>Projects: </h2>
-    <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server. </a>
+    <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server.</a>
+    <a href="https://sougabriel.github.io">SouGabriel - GitHubPages.</a>
+    <a href="https://github.com/sougabriel/postify">Postify.</a>
 </section>
 </main>
-
-<footer>
-    <div align="center">
-        <hr>
-        <img src="https://raw.githubusercontent.com/sougabriel/sougabriel/e506c1a2f41063761abc69ed302a5faefc87fab6/favicon.svg" alt="sougabriel logo" width="48" height="48"> 
-        <p>&copy; 2023 Gabriel de Souza. </p>
-    </div>
-</footer>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=footer"/>
