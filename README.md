@@ -90,8 +90,8 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
 <hr>
 <section id="projects">
     <h2>Projects: </h2>
-    <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server.</a>
-    <a href="https://sougabriel.github.io">SouGabriel - GitHubPages.</a>
-    <a href="https://github.com/sougabriel/postify">Postify.</a>
+    <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server.</a></br>
+    <a href="https://sougabriel.github.io">SouGabriel - GitHubPages.</a></br>
+    <a href="https://github.com/sougabriel/postify">Postify.</a></br>
 </section>
 </main>
