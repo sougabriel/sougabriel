@@ -57,7 +57,6 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                         <li>SQLite;  </li>
                         <li>MongoDB; </li>
                         <li>Redis;   </li>
-                        <li>Laravel; </li>
                         <li>Pycharm; </li>
                     </ul>
                 </td>
@@ -69,7 +68,6 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                         <li>Electron.js; </li>
                         <li>Git;         </li>
                         <li>Github;      </li>
-                        <li>Gitlab;      </li>
                     </ul>
                 </td>
                 <td>
@@ -78,7 +76,6 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                         <li>Latex;    </li>
                         <li>Markdown; </li>
                         <li>Canva;    </li>
-                        <li>Figma;    </li>
                         <li>GIMP;     </li>
                         <li>Inkscape; </li>
                     </ul>
