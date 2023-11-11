@@ -56,14 +56,12 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                         <li>NoSQL;   </li>
                         <li>SQLite;  </li>
                         <li>MongoDB; </li>
-                        <li>Redis;   </li>
                         <li>Pycharm; </li>
                     </ul>
                 </td>
                 <td>
                     <ul>
                         <li>Node.js;     </li>
-                        <li>NPM;         </li>
                         <li>Express.js;  </li>
                         <li>Electron.js; </li>
                         <li>Git;         </li>
@@ -72,7 +70,6 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                 </td>
                 <td>
                     <ul>
-                        <li>SCSS;     </li>
                         <li>Latex;    </li>
                         <li>Markdown; </li>
                         <li>Canva;    </li>
