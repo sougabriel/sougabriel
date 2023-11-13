@@ -56,7 +56,6 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                         <li>NoSQL;   </li>
                         <li>SQLite;  </li>
                         <li>MongoDB; </li>
-                        <li>Pycharm; </li>
                     </ul>
                 </td>
                 <td>
@@ -65,13 +64,11 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                         <li>Express.js;  </li>
                         <li>Electron.js; </li>
                         <li>Git;         </li>
-                        <li>Github;      </li>
                     </ul>
                 </td>
                 <td>
                     <ul>
                         <li>Latex;    </li>
-                        <li>Markdown; </li>
                         <li>Canva;    </li>
                         <li>GIMP;     </li>
                         <li>Inkscape; </li>
