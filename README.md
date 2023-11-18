@@ -21,7 +21,7 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
 <h2>My Stats: </h2>
 <div align="center">
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=html,css"/>
 </div>
 
 <h2>Primary Skills</h2>
