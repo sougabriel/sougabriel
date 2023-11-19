@@ -15,10 +15,10 @@
 <main>
     <hr>
     <section id="resume">
-        <h2>Resume: </h2>
+        <h2>Resume</h2>
 I am an undergraduate student in Technology in Systems Analysis and Development, passionate about programming, and seeking experience in the field. My goal is to acquire solid knowledge in both back-end and front-end, in order to become a versatile and qualified developer. 
 
-<h2>My Stats: </h2>
+<h2>My Stats</h2>
 <div align="center">
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=html,css"/>
@@ -43,7 +43,7 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
     
 <hr>
     <section id="knowledges">
-        <h2>Knowledges: </h2>
+        <h2>Knowledges</h2>
         <div align="center">
         <table>
             <tr>
@@ -77,7 +77,7 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
         </div>
 <hr>
 <section id="projects">
-    <h2>Projects: </h2>
+    <h2>Projects</h2>
     <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server.</a></br>
     <a href="https://sougabriel.github.io">SouGabriel - GitHubPages.</a></br>
     <a href="https://github.com/sougabriel/postify">Postify.</a></br>
