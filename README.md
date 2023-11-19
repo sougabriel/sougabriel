@@ -12,8 +12,9 @@
     </nav>
 </header>
 
+<hr>
+
 <main>
-    <hr>
     <section id="resume">
         <h2>Resume</h2>
 I am an undergraduate student in Technology in Systems Analysis and Development, passionate about programming, and seeking experience in the field. My goal is to acquire solid knowledge in both back-end and front-end, in order to become a versatile and qualified developer. 
@@ -40,11 +41,10 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="64" height="64"/>
 </div>
 </section>
-    
-<hr>
-    <section id="knowledges">
-        <h2>Knowledges</h2>
-        <div align="center">
+
+<section id="knowledges">
+    <h2>Knowledges</h2>
+    <div align="center">
         <table>
             <tr>
                 <td>
@@ -73,9 +73,9 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
                 </td>
             </tr>
         </table>
-    </section>
-        </div>
-<hr>
+    </div>
+</section>
+
 <section id="projects">
     <h2>Projects</h2>
     <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server.</a></br>
