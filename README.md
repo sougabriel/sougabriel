@@ -2,8 +2,6 @@
     <h1>My name is Gabriel de Souza! Welcome to my profile!</h1>
 </header>
 
-<hr>
-
 <main>
 
 <h2>My Stats</h2>
