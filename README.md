@@ -1,23 +1,10 @@
 <header>
-    <h1>Hi! My name is Gabriel de Souza! Welcome to my profile! </h1>   
-    <nav>
-        <details>
-            <summary>Sections</summary>
-            <ul>
-                <li><a href="#resume">About Me</a></li>
-                <li><a href="#knowledges">My Knowledges</a></li>
-                <li><a href="#projects">Projects</a></li>
-            </ul>
-        </details>
-    </nav>
+    <h1>My name is Gabriel de Souza! Welcome to my profile!</h1>
 </header>
 
 <hr>
 
 <main>
-    <section id="resume">
-        <h2>Resume</h2>
-I am an undergraduate student in Technology in Systems Analysis and Development, passionate about programming, and seeking experience in the field. My goal is to acquire solid knowledge in both back-end and front-end, in order to become a versatile and qualified developer. 
 
 <h2>My Stats</h2>
 <div align="center">
@@ -40,43 +27,5 @@ I am an undergraduate student in Technology in Systems Analysis and Development,
 <img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" width="64" height="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="64" height="64"/>
 </div>
-</section>
 
-<section id="knowledges">
-    <h2>Knowledges</h2>
-    <div align="center">
-        <table>
-            <tr>
-                <td>
-                    <ul>
-                        <li>SQL;     </li>
-                        <li>NoSQL;   </li>
-                        <li>SQLite;  </li>
-                    </ul>
-                </td>
-                <td>
-                    <ul>
-                        <li>Node.js;     </li>
-                        <li>Express.js;  </li>
-                        <li>Electron.js; </li>
-                    </ul>
-                </td>
-                <td>
-                    <ul>
-                        <li>Git;      </li>
-                        <li>GIMP;     </li>
-                        <li>Inkscape; </li>
-                    </ul>
-                </td>
-            </tr>
-        </table>
-    </div>
-</section>
-
-<section id="projects">
-    <h2>Projects</h2>
-    <a href="https://github.com/sougabriel/Index-for-Localhost">Index for PHP Server.</a></br>
-    <a href="https://sougabriel.github.io">SouGabriel - GitHubPages.</a></br>
-    <a href="https://github.com/sougabriel/postify">Postify.</a></br>
-</section>
 </main>
