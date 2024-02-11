@@ -1,29 +1,25 @@
-<header>
-    <h1>My name is Gabriel de Souza! Welcome to my profile!</h1>
-</header>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=html,css" />
 
-<main>
+<img src="./assets/icons/androidstudio-original.svg"   width="64" height="64" />
+<img src="./assets/icons/angular-17-original.svg"      width="64" height="64" />
+<img src="./assets/icons/angularmaterial-original.svg" width="64" height="64" />
+<img src="./assets/icons/dependency-injection.svg"     width="64" height="64" />
+<img src="./assets/icons/ionic-original.svg"           width="64" height="64" />
+<img src="./assets/icons/nestjs-original.svg"          width="64" height="64" />
+<img src="./assets/icons/nodejs-original.svg"          width="64" height="64" />
+<img src="./assets/icons/postgresql-original.svg"      width="64" height="64" />
+<img src="./assets/icons/prisma-original.svg"          width="64" height="64" />
+<img src="./assets/icons/pwa.svg"                      width="64" height="64" />  
+<img src="./assets/icons/rxjs-original.svg"            width="64" height="64" />
+<img src="./assets/icons/sass-original.svg"            width="64" height="64" />
 
-<h2>My Stats</h2>
-<div align="center">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=html,css"/>
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h2>Primary Skills</h2>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64"/>  
-<img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" width="64" height="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="64" height="64"/>
-</div>
-
-</main>
+[![Linkedin Badge](https://img.shields.io/badge/-sougabriels-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sougabriels/)](https://www.linkedin.com/in/sougabriels/)
+[![Youtube Badge](https://img.shields.io/badge/-Gavri'el-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@gavriels)](https://www.youtube.com/@gavriels)
+[![Medium Badge](https://img.shields.io/badge/-@gabriel.dsouzapro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gabriel.dsouzapro/)](https://medium.com/@gabriel.dsouzapro)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.dsouzapro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.dsouzapro@gmail.com)](mailto:gabriel.dsouzapro@gmail.com)
