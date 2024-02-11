@@ -4,8 +4,8 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 ## 📊 My Stats
 
 <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"  width="40%" height="160em" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=html,css" width="40%" height="160em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"  width="45%" height="160em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=react&count_private=true&hide=html,css" width="45%" height="160em" />
 </div>
 
 ## 😎 Main Skills
