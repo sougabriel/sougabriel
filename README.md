@@ -9,18 +9,18 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 
 ## 😎 Main Skills
 <div align="center">
-    <img src="./assets/icons/androidstudio-original.svg"   width="64" height="64" />
-    <img src="./assets/icons/angular-17-original.svg"      width="64" height="64" />
-    <img src="./assets/icons/angularmaterial-original.svg" width="64" height="64" />
-    <img src="./assets/icons/dependency-injection.svg"     width="64" height="64" />
-    <img src="./assets/icons/ionic-original.svg"           width="64" height="64" />
-    <img src="./assets/icons/nestjs-original.svg"          width="64" height="64" />
-    <img src="./assets/icons/nodejs-original.svg"          width="64" height="64" />
-    <img src="./assets/icons/postgresql-original.svg"      width="64" height="64" />
-    <img src="./assets/icons/prisma-original.svg"          width="64" height="64" />
-    <img src="./assets/icons/pwa.svg"                      width="64" height="64" />  
-    <img src="./assets/icons/rxjs-original.svg"            width="64" height="64" />
-    <img src="./assets/icons/sass-original.svg"            width="64" height="64" />
+    <img src="./assets/icons/androidstudio-original.svg"   title="Android Studio"       width="64" height="64" />
+    <img src="./assets/icons/angular-17-original.svg"      title="Angular"              width="64" height="64" />
+    <img src="./assets/icons/angularmaterial-original.svg" title="Angular Material"     width="64" height="64" />
+    <img src="./assets/icons/dependency-injection.svg"     title="Dependency Injection" width="64" height="64" />
+    <img src="./assets/icons/ionic-original.svg"           title="Ionic"                width="64" height="64" />
+    <img src="./assets/icons/nestjs-original.svg"          title="NestJs"               width="64" height="64" />
+    <img src="./assets/icons/nodejs-original.svg"          title="NodeJs"               width="64" height="64" />
+    <img src="./assets/icons/postgresql-original.svg"      title="Postgresql"           width="64" height="64" />
+    <img src="./assets/icons/prisma-original.svg"          title="Prisma ORM"           width="64" height="64" />
+    <img src="./assets/icons/pwa.svg"                      title="Progressive Web App"  width="64" height="64" />  
+    <img src="./assets/icons/rxjs-original.svg"            title="RxJs"                 width="64" height="64" />
+    <img src="./assets/icons/sass-original.svg"            title="Sass"                 width="64" height="64" />
 </div>
 
 ### 💻 Programming Languages
