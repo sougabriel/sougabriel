@@ -1,4 +1,9 @@
-# 👋 Hello! My name is Gabriel. 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=200730&height=100&section=header"/>
+
+<div align="center">
+    <h1>👋 Hello! My name is Gabriel.</h1> 
+</div>
+
 I am a recent graduate in Analysis and Systems Development, carrying with me a passion for learning and the ambition to contribute with my skills in an environment that values professional growth.
 
 ## 📊 My Stats
@@ -37,3 +42,5 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 [![Youtube Badge](https://img.shields.io/badge/-Gavri'el-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@gavriels)](https://www.youtube.com/@gavriels)
 [![Medium Badge](https://img.shields.io/badge/-@gabriel.dsouzapro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gabriel.dsouzapro/)](https://medium.com/@gabriel.dsouzapro)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.dsouzapro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.dsouzapro@gmail.com)](mailto:gabriel.dsouzapro@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=200730&height=100&section=footer"/>
