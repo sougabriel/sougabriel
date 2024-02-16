@@ -37,10 +37,6 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" />
 </div>
 
-## 📲 Social
-[![Linkedin Badge](https://img.shields.io/badge/-sougabriels-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sougabriels/)](https://www.linkedin.com/in/sougabriels/)
-[![Medium Badge](https://img.shields.io/badge/-@gabriel.dsouzapro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gabriel.dsouzapro/)](https://medium.com/@gabriel.dsouzapro)
-
 <div align="center">
     <img src="./assets/icons/sougabriel_logo.svg" title="Sou Gabriel - Logo" width="64" />
     <h4>&copy; Gabriel de Souza.</h4>
