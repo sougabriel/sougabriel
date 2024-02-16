@@ -31,9 +31,9 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 ### 💻 Programming Languages
 
 <div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"          title="Java" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"               title="PHP" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"               title="Python" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"          title="Java"       />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"               title="PHP"        />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"               title="Python"     />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" />
 </div>
 
@@ -41,6 +41,10 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 [![Linkedin Badge](https://img.shields.io/badge/-sougabriels-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sougabriels/)](https://www.linkedin.com/in/sougabriels/)
 [![Youtube Badge](https://img.shields.io/badge/-Gavri'el-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@gavriels)](https://www.youtube.com/@gavriels)
 [![Medium Badge](https://img.shields.io/badge/-@gabriel.dsouzapro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gabriel.dsouzapro/)](https://medium.com/@gabriel.dsouzapro)
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.dsouzapro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.dsouzapro@gmail.com)](mailto:gabriel.dsouzapro@gmail.com)
+
+<div align="center">
+    <img src="./assets/icons/sougabriel_logo.svg" title="Sou Gabriel - Logo" width="64" />
+    <h4>&copy; Gabriel de Souza.</h4>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=200730&height=100&section=footer"/>
