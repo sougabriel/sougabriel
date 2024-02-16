@@ -39,7 +39,6 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 
 ## 📲 Social
 [![Linkedin Badge](https://img.shields.io/badge/-sougabriels-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sougabriels/)](https://www.linkedin.com/in/sougabriels/)
-[![Youtube Badge](https://img.shields.io/badge/-Gavri'el-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@gavriels)](https://www.youtube.com/@gavriels)
 [![Medium Badge](https://img.shields.io/badge/-@gabriel.dsouzapro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gabriel.dsouzapro/)](https://medium.com/@gabriel.dsouzapro)
 
 <div align="center">
