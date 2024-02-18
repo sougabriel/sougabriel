@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=200730&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323232&height=100&section=header"/>
 
 <div align="center">
     <h1>👋 Hello! My name is Gabriel.</h1> 
@@ -42,4 +42,4 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
     <h4>&copy; Gabriel de Souza.</h4>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=200730&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323232&height=100&section=footer"/>
