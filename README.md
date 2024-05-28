@@ -37,11 +37,4 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript" />
 </div>
 
-<hr>
-
-<div align="center">
-    <img src="./assets/icons/sougabriel_logo.svg" title="Sou Gabriel - Logo" width="64" />
-    <h4>Copyright &copy; 2024 | Gabriel de Souza.</h4>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323232&height=100&section=footer"/>
