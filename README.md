@@ -14,10 +14,8 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 
 ## 😎 Main Skills
 <div align="center">
-    <img src="./assets/icons/androidstudio-original.svg"   title="Android Studio"       width="64" height="64" />
     <img src="./assets/icons/angular-17-original.svg"      title="Angular"              width="64" height="64" />
     <img src="./assets/icons/angularmaterial-original.svg" title="Angular Material"     width="64" height="64" />
-    <img src="./assets/icons/dependency-injection.svg"     title="Dependency Injection" width="64" height="64" />
     <img src="./assets/icons/ionic-original.svg"           title="Ionic"                width="64" height="64" />
     <img src="./assets/icons/nestjs-original.svg"          title="NestJs"               width="64" height="64" />
     <img src="./assets/icons/nodejs-original.svg"          title="NodeJs"               width="64" height="64" />
