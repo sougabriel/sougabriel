@@ -12,7 +12,7 @@ I am a recent graduate in Analysis and Systems Development, carrying with me a p
 
 ## 📊 My Stats
 <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby" height="160em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=false&count_private=true&theme=great-gatsby" height="160em" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=great-gatsby&count_private=true&hide=html,css,less" height="160em" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sougabriel&theme=dark&border_radius=3&locale=en_US&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
