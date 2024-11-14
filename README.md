@@ -6,6 +6,11 @@
 
 </div>
 
+- 👩‍💻 Front-end and Back-end Developer
+- 🎓 Undergraduate degree in Analysis and Systems Development
+- 💡 Love a good challenge and innovative ideas
+- 🌱 learning more deeply about Spring Framework and .NET
+
 <div align="center">
     <h2>📊 My Stats</h2>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=false&count_private=true&theme=great-gatsby" height="160em" />
