@@ -2,14 +2,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F7C300&width=320&lines=Hello!+My+name+is+Gabriel;I+am+a+software+developer)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F7C300&width=320&lines=Hello!+My+name+is+Gabriel;I+am+a+web+developer)](https://git.io/typing-svg) 
 
 </div>
 
-- 👩‍💻 Front-end and Back-end Developer
+- 👩‍💻 Web Developer using **Angular** and **Node.js**
 - 🎓 Undergraduate degree in Analysis and Systems Development
+- 🌱 Learning more deeply about **Spring Framework** and **.NET**
 - 💡 Love a good challenge and innovative ideas
-- 🌱 learning more deeply about Spring Framework and .NET
 
 <div align="center">
     <h2>📊 My Stats</h2>
@@ -18,7 +20,7 @@
 </div>
 
 <div align="center">
-    <h2>😎 Main Skills</h2>
+    <h2>💻 Tech Stack</h2>
     <img src="./assets/icons/angular-17-original.svg"      title="Angular"              width="64" height="64" />
     <img src="./assets/icons/angularmaterial-original.svg" title="Angular Material"     width="64" height="64" />
     <img src="./assets/icons/ionic-original.svg"           title="Ionic"                width="64" height="64" />
@@ -32,9 +34,9 @@
 
 <div align="center">
     <h2>📞 Contact</h2>
-    <a href="mailto:gabriel.dsouzapro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32px" alt="Gmail Logo" /></a>
-    <a href="https://www.linkedin.com/in/sougabriels/"><img src="https://skillicons.dev/icons?i=linkedin" height="32px" alt="LinkedIn Logo" /></a> <br/>
-    <a href="https://sougabriel.github.io/">My Web Portfolio</a>
+    <a href="mailto:gabriel.dsouzapro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="32px" alt="Gmail Logo" /></a>
+    <a href="https://www.linkedin.com/in/sougabriels/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="32px" alt="LinkedIn Logo" /></a> <br/>
+    <a href="https://sougabriel.github.io/" target="_blank" rel="noopener noreferrer">My Web Portfolio</a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323232&height=100&section=footer"/>
