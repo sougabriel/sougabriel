@@ -16,7 +16,7 @@
 <div align="center">
     <h2>📊 My Stats</h2>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=false&count_private=true&theme=great-gatsby" height="160em" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=great-gatsby&count_private=true&include_all_commits=true&hide=html,css,less" height="160em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=great-gatsby&count_private=false&include_all_commits=false&hide=html,css,less,scss" height="160em" />
 </div>
 
 <div align="center">
