@@ -17,7 +17,6 @@
     <h2>📊 My Stats</h2>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&theme=great-gatsby" height="160em" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=great-gatsby&count_private=false&include_all_commits=true&hide=html,css,less,scss" height="160em" />
-    <img src="https://wakatime.com/share/@ec6d9de7-b3db-4e93-8af9-697eda8cfaca/6023eea0-2c5e-4cd7-8d25-5b0e2ce2c631.svg" height="360em" />
 </div>
 
 
