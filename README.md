@@ -10,7 +10,7 @@
 
 - 👩‍💻 Web Developer using **Angular** and **Node.js**
 - 🎓 Undergraduate degree in Analysis and Systems Development
-- 🌱 Learning more deeply about **Spring Framework** and **.NET**
+- 🌱 Learning more deeply about **Microservices** and **Design Patterns**
 - 💡 Love a good challenge and innovative ideas
 
 <div align="center">
