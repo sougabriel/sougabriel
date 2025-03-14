@@ -8,10 +8,10 @@
 
 </div>
 
-- 👩‍💻 Web Developer using **Angular** and **Node.js**
-- 🎓 Undergraduate degree in Analysis and Systems Development
+- 👩‍💻 Web Developer using **Angular**, **NestJs**, **NextJs** and **Node.js**
 - 🌱 Learning more deeply about **Microservices** and **Design Patterns**
 - 💡 Love a good challenge and innovative ideas
+- 🎓 Undergraduate degree in Analysis and Systems Development
 
 <div align="center">
     <h2>📊 My Stats</h2>
@@ -24,7 +24,6 @@
     <h2>💻 Tech Stack</h2>
     <img src="./assets/icons/angular-17-original.svg"      title="Angular"              width="64" height="64" />
     <img src="./assets/icons/angularmaterial-original.svg" title="Angular Material"     width="64" height="64" />
-    <img src="./assets/icons/ionic-original.svg"           title="Ionic"                width="64" height="64" />
     <img src="./assets/icons/nestjs-original.svg"          title="NestJs"               width="64" height="64" />
     <img src="./assets/icons/nodejs-original.svg"          title="NodeJs"               width="64" height="64" />
     <img src="./assets/icons/postgresql-original.svg"      title="Postgresql"           width="64" height="64" />
