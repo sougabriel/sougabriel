@@ -34,7 +34,6 @@
 
 <div align="center">
     <h2>📞 Contact</h2>
-    <a href="mailto:gabriel.dsouzapro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="32px" alt="Gmail Logo" /></a>
     <a href="https://www.linkedin.com/in/sougabriels/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="32px" alt="LinkedIn Logo" /></a> <br/>
     <a href="https://sougabriel.github.io/" target="_blank" rel="noopener noreferrer">My Web Portfolio</a>
 </div>
