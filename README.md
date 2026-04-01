@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323232&height=100&section=header"/>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F7C300&width=320&lines=Hello!+My+name+is+Gabriel;I+am+a+full+stack+developer)](https://git.io/typing-svg) 
+<div align="center">    
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F7C300&width=320&lines=Hello!+My+name+is+Gabriel;I+am+a+full+stack+developer)](https://git.io/typing-svg)
 </div>
 
 - 👩‍💻 I am a full-stack developer specializing in industrial software.
