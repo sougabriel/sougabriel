@@ -12,14 +12,12 @@
 - 💡 Love a good challenge and innovative ideas.
 
 <div align="center">
-    <h2>📊 My Stats</h2>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougabriel&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&theme=great-gatsby" height="160em" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougabriel&layout=compact&langs_count=10&theme=great-gatsby&count_private=false&include_all_commits=true&hide=html,css,less,scss" height="160em" />
 </div>
 
 
 <div align="center">
-    <h2>💻 Tech Stack</h2>
     <img src="./assets/icons/angular-17-original.svg"      title="Angular"              width="64" height="64" />
     <img src="./assets/icons/nestjs-original.svg"          title="NestJs"               width="64" height="64" />
     <img src="./assets/icons/nodejs-original.svg"          title="NodeJs"               width="64" height="64" />
