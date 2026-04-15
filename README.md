@@ -7,7 +7,7 @@
 </div>
 
 - 👩‍💻 I am a full-stack developer specializing in industrial software.
-- 🌱 Learning more deeply about **Software Architecture**, **Software Engineering** and **Spec-driven development (SDD)**.
+- 🌱 Learning more deeply about **Software Architecture**.
 - 🎓 Undergraduate degree in Analysis and Systems Development.
 - 💡 Love a good challenge and innovative ideas.
 
