@@ -8,11 +8,11 @@
 
 ## Tech Stack
 - **Frontend**: Angular, Next.js, React, Tailwind, Material Design
-- **Backend**: Nest.js, Node.js, Spring Boot, ASP.NET, 
+- **Backend**: Nest.js, Node.js, Spring Boot, Python, APS.NET
 - **Mobile**: Flutter, React Native, Kotlin, Ionic
 - **Databases**: PostgreSQL, MySQL, Redis, MongoDB, Elastic/Open Search
 - **Microservices**: Kafka, RabbitMQ, gRPC, MQTT
-- **IoT**: ESP32, Arduino, Raspberry Pi
+- **IoT**: ESP32 & Raspberry Pi
 - **Artificial Intelligence (AI)**: Chat, Optical Character Recognition (OCR), Computer Vision
 
 ## What I build
@@ -23,6 +23,7 @@
 - IoT integrations
 - Real-time systems
 - Product solutions
+- Softwares Integrations
 
 ---
 
